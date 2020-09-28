@@ -1,0 +1,10 @@
+Running,None
+Elliptical Jog,Elliptical
+Treadmill Run,Treadmill
+Jumping Rope,Other
+Swimming,Other
+Rowing,Rowing Machine
+Cycling,Stationary Bike
+Mountain Biking,Bicycle
+Bicycle Riding,Bicycle
+Sprints,None

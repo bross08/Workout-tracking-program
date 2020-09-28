@@ -1,0 +1,49 @@
+Push Up,Upper Body,Chest,Body Weight,None
+Barbell Bench Press,Upper Body,Shoulders,Free Weights,Weighted Barbell
+Dumbbell Bench Press,Upper Body,Chest,Free Weights,Dumbells
+Incline Bench Press,Upper Body,Chest,Free Weights,Weighted Barbell
+Chest Press,Upper Body,Chest,Machine Resistance,Chest Press Machine
+Dumbbell Fly,Upper Body,Chest,Free Weights,Dumbells
+Chest Fly,Upper Body,Chest,Machine Resistance,Chest Fly Machine
+Barbell Overhead Press,Upper Body,Shoulders,Free Weights,Weighted Barbell
+Dumbbell Overhead Press,Upper Body,Shoulders,Free Weights,Dumbells
+Trap Raise,Upper Body,Shoulders,Free Weights,Dumbells
+Shoulder Shrugs,Upper Body,Shoulders,Free Weights,Dumbells
+Bench Dip,Upper Body,Shoulders,Body Weight,None
+Bicep Curl,Upper Body,Biceps,Free Weights,Curl bar
+Dumbbell Curl,Upper Body,Biceps,Free Weights,Dumbells
+Cable Curl,Upper Body,Biceps,Machine Resistance,Cable Machine
+Hammer Curl,Upper Body,Biceps,Free Weights,Dumbells
+Close Grip Bench Press,Upper Body,Triceps,Free Weights,Weighted Barbell
+Dips,Upper Body,Triceps,Body Weight,Dip Bar
+Cable Pushdown,Upper Body,Triceps,Machine Resistance,Cable Machine
+Pullover,Upper Body,Triceps,Free Weights,Weighted Barbell
+Tricep Extension,Upper Body,Triceps,Free Weights,Dumbells
+Wrist Curl,Upper Body,Forearms,Free Weights,Curl bar
+Reverse Wrist Curl,Upper Body,Forearms,Free Weights,Curl bar
+Static Hang,Upper Body,Forearms,Body Weight,Pull Up Bar
+Russian Twist,Upper Body,Abs,Body Weight,None
+Sit-ups,Upper Body,Abs,Body Weight,None
+Plank,Upper Body,Abs,Body Weight,None
+Leg Lift,Upper Body,Abs,Body Weight,Dip Bar
+Bent Over Row,Upper Body,Upper Back,Free Weights,Weighted Barbell
+Dumbbell Single Arm Row,Upper Body,Upper Back,Free Weights,Dumbells
+Inverted Row,Upper Body,Upper Back,Body Weight,Pull Up Bar
+Pull Up,Upper Body,Upper Back,Body Weight,Pull Up Bar
+Lat Pull Down,Upper Body,Upper Back,Machine Resistance,Lat Pull Down Machine
+Bodyweight Squats,Lower Body,Quadriceps,Body Weight,None
+Back Squat,Lower Body,Quadriceps,Free Weights,Weighted Barbell
+Front Squat,Lower Body,Quadriceps,Free Weights,Weighted Barbell
+Wall Sit,Lower Body,Quadriceps,Body Weight,None
+Leg Press,Lower Body,Quadriceps,Machine Resistance,Leg Press Machine
+Leg Extension,Lower Body,Quadriceps,Machine Resistance,Leg Extension Machine
+Deadlifts,Lower Body,Hamstrings,Free Weights,Weighted Barbell
+Kettlebell Deadlift,Lower Body,Hamstrings,Free Weights,Kettle Bell
+Cable Pull-through,Lower Body,Hamstrings,Machine Resistance,Cable Machine
+Glute Bridge,Lower Body,Glutes,Body Weight,None
+Hip Thrust,Lower Body,Glutes,Free Weights,Weighted Barbell
+Standing calf raise,Lower Body,Calves,Free Weights,Dumbells
+Seated Calf Raise,Lower Body,Calves,Free Weights,Dumbells
+Jump Squat,Lower Body,Calves,Free Weights,Kettle Bell
+Rack Pulls,Lower Body,Lower Back,Free Weights,Weighted Barbell
+Reverse Hyperextension,Lower Body,Lower Back,Body Weight,None

@@ -1,0 +1,3 @@
+Brad,Brads test 1,Upper Body,Chest,Free Weights,Dumbells
+Brad,Brads test 2,Lower Body,Quadriceps,Body Weight,None
+Brad,Brad Test 3,Lower Body,Glutes,Machine Resistance,Cable Machine

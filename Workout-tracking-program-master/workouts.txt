@@ -1,0 +1,24 @@
+Name,Brad,Chest and Tricep Workout
+Strength,Push Up,Upper Body,Chest,Body Weight,None
+Strength,Barbell Bench Press,Upper Body,Shoulders,Free Weights,Weighted Barbell
+Strength,Chest Fly,Upper Body,Chest,Machine Resistance,Chest Fly Machine
+Strength,Dips,Upper Body,Triceps,Body Weight,Dip Bar
+Strength,Cable Pushdown,Upper Body,Triceps,Machine Resistance,Cable Machine
+end
+Name,Brad,Test Workout
+Strength,Dumbbell Bench Press,Upper Body,Chest,Free Weights,Dumbells
+Strength,Incline Bench Press,Upper Body,Chest,Free Weights,Weighted Barbell
+end
+Name,,One
+Strength,Push Up,Upper Body,Chest,Body Weight,None
+Strength,Dumbbell Bench Press,Upper Body,Chest,Free Weights,Dumbells
+end
+Name,brad,Strength 1
+Strength,Push Up,Upper Body,Chest,Body Weight,None
+Strength,Dumbbell Overhead Press,Upper Body,Shoulders,Free Weights,Dumbells
+Strength,Cable Curl,Upper Body,Biceps,Machine Resistance,Cable Machine
+end
+Name,Bill,Workout1
+Strength,Barbell Bench Press,Upper Body,Shoulders,Free Weights,Weighted Barbell
+Strength,Dumbbell Bench Press,Upper Body,Chest,Free Weights,Dumbells
+end
